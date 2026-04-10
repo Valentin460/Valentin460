@@ -2,6 +2,4 @@
 
 ![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=Valentin460&layout=compact&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Valentin460&theme=tokyonight)
-
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentin460&theme=tokyonight)
