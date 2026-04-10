@@ -4,6 +4,4 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Valentin460&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Valentin460&theme=tokyo-night)
-
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentin460&theme=tokyonight)
