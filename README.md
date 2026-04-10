@@ -6,4 +6,4 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Valentin460&theme=tokyo-night)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Valentin460&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentin460&theme=tokyonight)
